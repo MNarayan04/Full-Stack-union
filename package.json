@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.20",
     "@tanstack/react-table": "^8.17.3",
-    "date-fns": "^3.6.0",c
+    "date-fns": "^3.6.0",
     "dayjs": "^1.11.11",
     "material-react-table": "^2.13.0",
     "react": "^18.3.1",
